@@ -1,3 +1,8 @@
+//CODE Created by: Kamran Mansoor
+//Distributed by Instagram@kamran_hccp
+//Instgram Page for Fun/Sharing my Views: Instgram@programming_is_my_life_
+
+
 package Library_Management_Sys;
 
 public class Book {
